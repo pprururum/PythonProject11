@@ -8,7 +8,7 @@
 
 ## Видео-презентация
 
-(тут будет ссылка)
+[(ссылка на видео презентацию)](https://drive.google.com/drive/folders/1IrpCmzRVTEZsetOZ5V1oHVLLEyY3E85M?usp=sharing)
 
 ## Что делает программа
 
@@ -28,6 +28,6 @@
 ## Как запустить
 
 ```bash
-git clone https://github.com/pprururum/PythonProject1.git
+git clone https://github.com/pprururum/csv-analyzer.git
 cd PythonProject1
 python main.py
